@@ -79,8 +79,8 @@ También registré los problemas y envié mis correcciones en GitHub:
 - [x] Corregir el cálculo del carrito y la referencia del CSS.
 - [x] Subir los cambios y abrir los dos Pull Requests.
 - [x] Revisar los archivos modificados en `Files changed`.
-- [ ] Publicar esta guía en `docs/GUIA.md` y enlazarla desde el README principal.
+- [x] Publicar esta guía en `docs/GUIA.md` y enlazarla desde el README principal.
 
 ## Conclusión
 
-Este laboratorio me ayudó a comprender cómo se trabaja con un repositorio de otra persona sin modificar directamente el original. Aprendí a usar los Issues para reportar errores y los Pull Requests para presentar mis correcciones. También comprendí la importancia de probar los cambios antes de subirlos y de mantener actualizado el repositorio.
+Este laboratorio me ayudó a comprender cómo se trabaja con un repositorio de otra persona sin modificar directamente el original. 
